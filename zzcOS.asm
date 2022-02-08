@@ -217,7 +217,7 @@ whderror   db '---Hdisk Write Error' ,'$'
 
 syscome    db '------------------------------------------------------',13,10,\
                        'Now You Have Comed zzcOS File System,Enjoy Youself!' ,13,10,\
-             '------------------------------------------------------','$'
+           '------------------------------------------------------','$'
 pwdinfo     db 'C:\>','$'
 cdcom        db 'cd'
 dircom       db 'dir'
