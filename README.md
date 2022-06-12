@@ -8,4 +8,4 @@ The OS list in the repository(update every week):
 
 1.zzcDOS v0.2
 
-2.zzcOS v0.7
+2.zzcOS v1.0
